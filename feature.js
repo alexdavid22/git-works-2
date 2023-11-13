@@ -1,1 +1,1 @@
-console.log('being gay is wrong')
+console.log('being gay is absolutelly wrong')
